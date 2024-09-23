@@ -1,0 +1,9 @@
+### How to Add This to Your Project:
+1. Create a file named README.md in your project folder.
+2. Copy and paste the above content into the file.
+3. Commit the file and push it to GitHub:
+
+   ```bash
+   git add README.md
+   git commit -m "Added README file"
+   git push
